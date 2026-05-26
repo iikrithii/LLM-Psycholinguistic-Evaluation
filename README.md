@@ -163,13 +163,13 @@ All interpretability results are written to `results/interpretability/`.
 
 ## Models
 
-| Short name | Model ID | API |
+| Short name | Model ID | 
 |---|---|---|
-| `gpt` | `openai/gpt-oss-120b` | Groq |
-| `llama` | `llama-3.3-70b-versatile` | Groq |
-| `qwen` | `qwen/qwen3-32b` | Groq |
-| `gemma2_9b` | `google/gemma-2-9b-it` | HuggingFace (interpretability only) |
-| `pythia_1.4b` | `EleutherAI/pythia-1.4b` | HuggingFace (interpretability only) |
+| `gpt` | `openai/gpt-4o` |
+| `llama` | `llama-3.3-70b-versatile` | 
+| `qwen` | `qwen/qwen3-32b` | 
+| `gemma2_9b` | `google/gemma-2-9b-it` | 
+| `pythia_1.4b` | `EleutherAI/pythia-1.4b` | 
 
 ---
 
