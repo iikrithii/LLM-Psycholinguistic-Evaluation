@@ -1,0 +1,22 @@
+# Interpretability dependencies (GPU required for Gemma-2 9B)
+# Install after requirements.txt
+
+# TransformerLens for hook-based activation access
+transformer_lens>=1.17.0
+
+# PyTorch — install the CUDA-enabled build for your driver version.
+# See https://pytorch.org/get-started/locally/ for the correct index URL.
+# Example (CUDA 12.1):
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
+torch>=2.2.0
+
+# HuggingFace ecosystem
+transformers>=4.40.0
+accelerate>=0.28.0
+einops>=0.7.0
+
+# Probing
+scikit-learn>=1.4.0
+
+# Pile search
+requests>=2.31.0
