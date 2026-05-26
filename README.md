@@ -211,14 +211,3 @@ than issuing new API calls. Delete `cache/` to force fresh requests.
 
 ---
 
-## Citation
-
-If you use this code or stimulus battery in your research, please cite the
-original psycholinguistic papers for each theory. See the comments in
-`construct_stimuli.py` for references.
-
----
-
-## License
-
-MIT
