@@ -30,7 +30,7 @@ Tier 1 to Tier 3 is interpreted as evidence of contamination-driven performance.
 |---|---|---|
 | **1** | Famous stimuli from landmark papers (*bouba*, *kiki*, *gl-* words) | High |
 | **2** | Attested but obscure stimuli from less-cited research | Medium |
-| **3** | Novel, constructed stimuli not appearing in any published study | None |
+| **3** | Novel, constructed stimuli not appearing in any published study | Minimal |
 
 ---
 
